@@ -10,6 +10,6 @@ describe('Home', () => {
       name: /Página de teste/i,
     })
 
-    expect(heading).toBeInTheDocument()
+    expect(heading).toBeNull()
   })
 })
