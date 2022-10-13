@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Página de teste
+          Página do jenkins
         </p>
 
         <div className="grid">
